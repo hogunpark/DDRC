@@ -9,7 +9,7 @@ Usage
 -----
 
 **Example Usage**
-    ``python arg_rnn_classifier_with_attr.py --dataset dblp --hiddenunits 256 --timedistunits 64 --maxpooling 4 --randoption 0 --dntypeoption 0 --epochs 500 --nclasses 6 --preprocesseddataset 0 --parallel 1``
+    ``python main/arg_rnn_classifier_with_attr.py --dataset dblp --hiddenunits 256 --timedistunits 64 --maxpooling 4 --randoption 0 --dntypeoption 0 --epochs 500 --nclasses 6 --preprocesseddataset 0 --parallel 1``
 
 Requirements
 ------------
